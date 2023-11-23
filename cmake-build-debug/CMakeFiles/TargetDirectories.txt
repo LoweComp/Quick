@@ -1,0 +1,3 @@
+D:/Workspace/Quick/cmake-build-debug/CMakeFiles/Quick.dir
+D:/Workspace/Quick/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Workspace/Quick/cmake-build-debug/CMakeFiles/rebuild_cache.dir
